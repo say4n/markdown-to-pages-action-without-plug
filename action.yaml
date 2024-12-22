@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-action.json
 ---
-name: Markdown-to-Pages Action
+name: Markdown-to-Pages Action Sans Footer
 author: W Anders <w@doubleu.codes>
 description: Turn your README(s) into a basic static site.
 inputs:
