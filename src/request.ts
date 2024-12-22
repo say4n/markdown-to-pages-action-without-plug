@@ -12,7 +12,7 @@ async function requestAPI(
       headers: {
         ...options.headers,
         accept: 'application/vnd.github.json',
-        'user-agent': 'wranders/markdown-to-pages-action',
+        'user-agent': 'say4n/markdown-to-pages-action-without-plug',
       },
       host: 'api.github.com',
     };

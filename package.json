@@ -4,14 +4,14 @@
   "description": "Turn your README(s) into a basic static site using Github Actions",
   "homepage": "https://www.doubleu.codes/markdown-to-pages-action",
   "bugs": {
-    "url": "https://github.com/wranders/markdown-to-pages-action/issues"
+    "url": "https://github.com/say4n/markdown-to-pages-action-without-plug/issues"
   },
   "license": "MIT",
   "author": "W Anders <w@doubleu.codes> (https://www.doubleu.codes/)",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wranders/markdown-to-pages-action"
+    "url": "https://github.com/say4n/markdown-to-pages-action-without-plug"
   },
   "scripts": {
     "clean:dist": "node -e \"require('fs').rm('dist',{recursive:true,force:true},()=>{});\"",
