@@ -1,6 +1,6 @@
 {
-  "name": "markdown-to-pages-action",
-  "version": "1.0.1",
+  "name": "markdown-to-pages-action-without-plug",
+  "version": "3",
   "description": "Turn your README(s) into a basic static site using Github Actions",
   "homepage": "https://www.doubleu.codes/markdown-to-pages-action",
   "bugs": {
